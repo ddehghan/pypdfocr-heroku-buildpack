@@ -1,5 +1,5 @@
 tesseract-ocr
-tesseract
+tesseract-ocr-eng
 ghostscript
-poppler
+poppler-utils
 imagemagick
