@@ -1,2 +1,5 @@
 tesseract-ocr
+tesseract
 ghostscript
+poppler
+imagemagick
